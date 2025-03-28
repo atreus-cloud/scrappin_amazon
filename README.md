@@ -31,13 +31,13 @@ pip install requests beautifulsoup4 pandas scikit-learn xgboost
 - Execute the scraper script to collect data:
 
 ```
-python scraper.py
+python scraping_amazon.py
 ```
 - This will save the scraped data as scraped_amazon_data.csv.
 
 3. Train the Machine Learning Model
 
-- Run the Jupyter Notebook (Scraping_Amazon_ML.ipynb) to process data, extract features, and train models:
+- Run the Jupyter Notebook (ML.ipynb) to process data, extract features, and train models:
 
 ```
 jupyter notebook Scraping_Amazon_ML.ipynb
