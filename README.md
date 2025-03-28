@@ -54,5 +54,5 @@ jupyter notebook Scraping_Amazon_ML.ipynb
 
 - Deploy as a web app for real-time predictions.
 
--Automate data scraping using Selenium.
+- Automate data scraping using Selenium.
 
